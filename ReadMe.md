@@ -1,3 +1,6 @@
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://jscamposx.dev">Campos</a> 👋</h1>
+</div>
 # 💫 About Me:
 🎮 Fan de los videojuegos y del diseño moderno con vibes gamer.<br>💜 Amante del violeta oscuro, presente en mi branding y UI.<br>🚀 Full-stack dev enfocado en arquitectura backend, microservicios y optimización.<br>🧠 Aprendiz constante; documento todo en Obsidian y cuido el código limpio y escalable.<br>🌐 Trabajo con React, Tailwind, NestJS, MySQL, AWS y arquitectura limpia.<br>✨ Combino tecnología + diseño para crear experiencias completas desde cero.
 
